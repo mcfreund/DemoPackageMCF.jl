@@ -1,0 +1,3 @@
+[deps]
+DemoPackageMCF = "10adc1c3-b7e0-4b97-bb8d-e80898fc8232"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"

@@ -1,0 +1,13 @@
+name = "DemoPackageMCF"
+uuid = "10adc1c3-b7e0-4b97-bb8d-e80898fc8232"
+authors = ["mike freund <m.freund@wustl.edu> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
