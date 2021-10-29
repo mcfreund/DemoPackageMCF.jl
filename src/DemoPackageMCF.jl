@@ -1,5 +1,5 @@
 module DemoPackageMCF
 
-print_greeting() = print("Hello, world!"; color=:cyan)
+print_greeting() = printstyled("Hello, world!"; color=:cyan)
 
 end
